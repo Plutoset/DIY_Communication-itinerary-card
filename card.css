@@ -1,0 +1,67 @@
+.totalbox{
+  float:center;
+    width:400px;
+    margin:15px;
+    background-color: #2BA567;
+    height: calc(100%);
+}
+
+h1 {
+  color: white;
+  font-family: sans-serif ;
+  font-size : 32px; 
+  font-weight: 1000px;
+  margin: 15pt;
+}
+
+div.header1 {
+    font-family: sans-serif;
+font-size :18px;
+color: white;
+margin-bottom: 20px;
+}
+
+div.outerbox {
+    background: white;
+    width:360px;
+    border-radius: 15px;
+
+}
+
+userName {
+  color: #49474D;
+  line-height: 40px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight :550;
+}
+
+updateTime {
+  color: #a6a6a6;
+  font-size: 18px;
+  font-family:  sans-serif;
+  font-weight: 550;
+}
+
+p.citisPassby{
+  margin: center;
+  width: 320px;
+  color:   #a6a6a6;
+  font-size: 18px;
+  font-family:  sans-serif;
+  font-weight: 540;
+  line-height: 20px;
+  text-align: left;
+  margin-bottom: -10px;
+}
+ 
+span {
+  color: black;
+}
+
+div.reminderText {
+  margin: 10px;
+color:white;
+font-size:10px;
+line-height: 20px;
+}
