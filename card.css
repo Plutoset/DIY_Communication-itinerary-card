@@ -15,8 +15,9 @@ h1 {
 }
 
 div.header1 {
-    font-family: sans-serif;
+    font-family: "Noto Sans SC";
 font-size :18px;
+font-weight: 300;
 color: white;
 margin-bottom: 20px;
 }
@@ -39,7 +40,7 @@ userName {
 updateTime {
   color: #a6a6a6;
   font-size: 18px;
-  font-family:  sans-serif;
+  font-family:  Helvetica,"Noto Sans SC";
   font-weight: 550;
 }
 
@@ -48,15 +49,16 @@ p.citisPassby{
   width: 320px;
   color:   #a6a6a6;
   font-size: 18px;
-  font-family:  sans-serif;
-  font-weight: 540;
+  font-family:  'Times New Roman', "Noto Sans SC";
+  font-weight: 500;
   line-height: 20px;
   text-align: left;
   margin-bottom: -10px;
 }
  
 span {
-  color: black;
+  color: #49474D;
+  font-weight: 700;
 }
 
 div.reminderText {
@@ -64,4 +66,11 @@ div.reminderText {
 color:white;
 font-size:10px;
 line-height: 20px;
+}
+div.reminderText2 {
+  margin: 15px;
+color:white;
+font-size:11px;
+line-height: 20px;
+font-weight: 550;
 }
